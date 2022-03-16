@@ -1,0 +1,60 @@
+.container1{
+    height: 50px;
+    width: 800px;
+}
+
+.cards, .images{
+    background-color:lightgrey;
+}
+.contact-container{
+    height: 12vh;
+    background-color: black;
+    color: white;
+  /*  text-align: center; */
+    padding-top: 17px;
+    height: 70vh;
+    display: flex;
+    align-items: center;
+  
+}
+.main{
+    height: 40vh;
+}
+
+.foot p{
+    text-align: center;
+    
+}
+.footer-container{
+    height: 10vh;
+}
+.col h5:hover{
+    background-color: rgb(88, 69, 253);
+   
+}
+.heading5,.heading3,.footerp, .section-contact h4,
+.section-news h4{
+    color:white;
+}
+.section-news-content card{
+    margin-left: 500px;
+}
+.section-expertise h3, .section-insights h3{
+    color: white;
+}
+.section-cards .card{
+    width:18rem;
+}
+.images .carousel-caption{
+    margin-left: 500px;
+}
+.nav-link{
+    color: black;
+}
+.carousel-caption p{
+    color: black;
+}
+.section-insights{
+    background-color: lightgray;
+}
+
